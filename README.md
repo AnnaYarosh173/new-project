@@ -1,2 +1,2 @@
 # new-project
-# demo version of project
+# demo version of repo
